@@ -35,4 +35,7 @@ Four items `findChains(list, 4)`
 ]
 ```
 
+### Image
+![example](https://raw.githubusercontent.com/ixjb94/chains/main/ex.png "example")
+
 *It works for N chains*
